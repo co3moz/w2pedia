@@ -8,8 +8,9 @@ wikipedia.org'a erişilmeye çalışıldığında; 0wikipedia.org'a yönlendirir
 
 kurulum
 -------------------
-Bariz nedenlerden dolayı google marketine atmadım. Manuel kurulum yapmalısınız.
+İster manüel kurulum yapın isterseniz [https://chrome.google.com/webstore/detail/w2pedia/fnaljacenphofnfabdhbpiegaapakkaa?hl=en-US&gl=TR](Google marketinden) indirin.
 
+Manüel kurulum için;
 
 * repository'i zip olarak indirin.
 * zip'i bir klasöre çıkartın
