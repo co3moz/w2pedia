@@ -8,7 +8,7 @@ wikipedia.org'a erişilmeye çalışıldığında; 0wikipedia.org'a yönlendirir
 
 kurulum
 -------------------
-İster manüel kurulum yapın isterseniz [https://chrome.google.com/webstore/detail/w2pedia/fnaljacenphofnfabdhbpiegaapakkaa?hl=en-US&gl=TR](Google marketinden) indirin.
+İster manüel kurulum yapın isterseniz [Google marketinden](https://chrome.google.com/webstore/detail/w2pedia/fnaljacenphofnfabdhbpiegaapakkaa?hl=en-US&gl=TR) indirin.
 
 Manüel kurulum için;
 
