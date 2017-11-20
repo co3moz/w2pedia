@@ -1,16 +1,17 @@
 {
   "manifest_version": 2,
-  "name": "w2pedia",
-  "description": "Wikipedia'a erişirken 0Wikipedia'a yönlendirir",
+  "name": "cx-yutub",
+  "description": "Youtube downloader extension",
   "version": "1.0",
-  "background": {
-    "scripts": [
-      "background.js"
-    ]
-  },
+  "content_scripts": [
+    {
+      "matches": ["*://*.youtube.com/watch?v=*"],
+      "js": ["yutub.js"]
+    }
+  ],
   "permissions": [
     "webRequest",
-    "*://*.wikipedia.org/*",
+    "*://*.youtube.com/watch?v=*",
     "webRequestBlocking"
   ]
 }

@@ -1,21 +1,14 @@
-w2pedia extension
+yutub chrome extension
 -------------------
 
-wikipedia.org'a erişilmeye çalışıldığında; 0wikipedia.org'a yönlendirir.
+Yutub application's chrome extension thingy.
 
-> 0wikipedia.org tarafıma ait değildir.
-
-
-kurulum
+Installation
 -------------------
-İster manüel kurulum yapın isterseniz [Google marketinden](https://chrome.google.com/webstore/detail/w2pedia/fnaljacenphofnfabdhbpiegaapakkaa?hl=en-US&gl=TR) indirin.
-
-Manüel kurulum için;
-
-* repository'i zip olarak indirin.
-* zip'i bir klasöre çıkartın
-* `chrome://extensions/` adresine girin
-* Developer mode tickini işaretleyin
-* Load unpacked extension'a tıklayın
-* Klasörü seçin
-* wikipedia.org'a giriş yapın
+* download repository
+* edit url in yutub.js for self-hosted yutub application
+* go to the `chrome://extensions/`
+* check the developer mode box
+* click the load unpacked extension
+* pick repository folder
+* enjoy
